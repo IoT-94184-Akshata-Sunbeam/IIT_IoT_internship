@@ -1,0 +1,11 @@
+t="hello python programing"
+print(t[0:5])
+print(t[6:12])
+print(t[:5])
+print(t[6:])
+print(t[:])
+print(t[-11:])
+print(t[-1:])
+print(t[::2])
+print(t[::-1])
+print(t[6:12][::-1])
