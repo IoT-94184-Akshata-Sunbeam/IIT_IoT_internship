@@ -1,7 +1,7 @@
 #include<WiFi.h>
 
-const char *ssid = "SUNBEAM";
-const char *password ="1234567890";
+const char *ssid = "Vivo y 100a";
+const char *password ="89670555";
 
 void setup() {
     // put your setup code here, to run once:
